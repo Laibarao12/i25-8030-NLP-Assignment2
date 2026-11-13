@@ -1,0 +1,13 @@
+# BBC Urdu article text and derived annotations are kept out of the public repo
+/data/*
+!/data/README.md
+/models/*
+!/models/README.md
+/embeddings/*
+!/embeddings/README.md
+*.npy
+*.pt
+*.pth
+*.zip
+__pycache__/
+.ipynb_checkpoints/
