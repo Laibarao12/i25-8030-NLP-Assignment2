@@ -1,0 +1,20 @@
+{
+  "articles": 300,
+  "part1_MRR": {
+    "C1_PPMI": 0.025714,
+    "C2_raw": 0.035036,
+    "C3_cleaned": 0.031261,
+    "C4_d200": 0.013781
+  },
+  "analogies_top3_correct": 0,
+  "pos_accuracy": 0.8916844349680171,
+  "pos_macro_f1": 0.8171450157398698,
+  "ner_precision": 0.9,
+  "ner_recall": 0.8780487804878049,
+  "ner_entity_f1": 0.888888888888889,
+  "ner_reference": "automated silver BIO annotations",
+  "transformer_accuracy": 0.7555555555555555,
+  "transformer_macro_f1": 0.7563157894736842,
+  "bilstm_accuracy": 0.4666666666666667,
+  "bilstm_macro_f1": 0.408991008991009
+}
